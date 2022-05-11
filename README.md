@@ -1,7 +1,6 @@
 ## 👋 Hellooo ! 
 
 I'm working for web app.<br>
-My goal is to share open source projects for rapid development.
 
 ##### :ghost: I'm currently use then:
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
